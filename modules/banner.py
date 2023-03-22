@@ -189,3 +189,4 @@ keycode_menu = f'''
     {color.WHITE}9. {color.GREEN}DPAD Right
    {color.WHITE}10. {color.GREEN}Delete/Backspace
 '''
+print("This code is written by Maxl0x")
