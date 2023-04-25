@@ -1,6 +1,6 @@
 """
 Script : Alpha
-Author : Mohd Azeem (github.com/AzeemIdrisi)
+
 """
 
 import os
